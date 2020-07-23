@@ -47,7 +47,19 @@ exports.run = async (client, message, args) => {
         "**Niggalations 13:42**\n> If she cute, then thy can tap her. But if she ain't, then thy can slap her.",
         "**Niggalations 7:03**\n> If thy queen sends streaks thy bitch belong to the streets.",
         "**Niggalations 7:99**\n> If thy queen be asleep, thy meat shall be beat.",
-        "**Niggalations 98:1**\n> Either thou folds with thy BEST of them or thou shalt fold with the REST of them."
+        "**Niggalations 98:1**\n> Either thou folds with thy BEST of them or thou shalt fold with the REST of them.",
+        "**Niggalations 39:43**\n> If thy girl ever has a gay best friend that nigga better suck thy dick to prove it.",
+        "**Niggalations 3:13**\n> We cant build our kingdoms if thy bitch still want attention from the village.",
+        "**Niggalations 13:9**\n> Though shall always pass after thy second puff.",
+        "**Niggalations 6:14**\n> If her phone wallpaper isn't of her and thine, then she is definitely wasting your time.",
+        "**Niggalations 24:11**\n> Those who live and run away, live to simp another day.",
+        "**Niggalations 6:1**\n> If them cheeks are fat, like hands they shall clap.",
+        "**Niggalations 1:23**\n> If the glove don't fit, it is the fold he did not commit.",
+        "**Niggalations 7:38**\n> If she can say ‘lol’ without laughing, then she can say ‘i love you’ without loving you.",
+        "**Niggalations 7:32**\n> If thy girl ask for thy password, flip the script and ask for her own.",
+        "**Niggalations 10:6**\n> Hearken, take heed to my stipulations! If thou findeth a woman of promiscuous nature, lay not a hand on her nor provoke her to love thee; the LORD has given her to another, and thus in the streets she doth remain.",
+        "**Niggalations 3:48**\n> Ain’t nothin gained when a bitch complain.",
+        "**Niggalations 8:21**\n> If she has multiple morning streaks then you must hit the streets."
     ];
     let random = Math.floor(Math.random() * (quotes.length - 1) + 1);
     message.channel.send(quotes[random]).catch(err => {
