@@ -59,7 +59,24 @@ exports.run = async (client, message, args) => {
         "**Niggalations 7:32**\n> If thy girl ask for thy password, flip the script and ask for her own.",
         "**Niggalations 10:6**\n> Hearken, take heed to my stipulations! If thou findeth a woman of promiscuous nature, lay not a hand on her nor provoke her to love thee; the LORD has given her to another, and thus in the streets she doth remain.",
         "**Niggalations 3:48**\n> Ain’t nothin gained when a bitch complain.",
-        "**Niggalations 8:21**\n> If she has multiple morning streaks then you must hit the streets."
+        "**Niggalations 8:21**\n> If she has multiple morning streaks then you must hit the streets.",
+        "**Niggalations 45:17**\n> If thy Tinder date hath not cum then a ghost you shall become.",
+        "**Niggalations 69:31**\n> If thy cows nails are long then she shall please the shlong",
+        "**Niggalations 69:32**\n> If thine whore is not of age then thine must enter from backstage.",
+        "**Niggalations 12:9**\n> And I say unto you; If she thirst-trap on the ‘gram, you must understand you are not her only man",
+        "**Niggalations 4:11**\n> If Lachie thy simp, thy Lachie belongs to the streets",
+        "**Niggalations 4:14**\n> If the queen sleeps, the console shall beep",
+        "**Niggalations 5:43**\n> If the queen is to remain awake, to turn on the console is a mistake.",
+        "**Niggalations 7:20**\n> Thy nigga shall not date a bitch/hoe with an OnlyFans, as you, thy Nigga, shall be her only fan.",
+        "**Niggalations 21:23**\n> Thou shalt not place thou faith in thou woman; for thou heart shall one day be shattered.",
+        "**Niggalations 21:24**\n> And he said, thy woman shall not be exalted; for differentiation she has not.",
+        "**Niggalations 3:15**\n> There is no point using more than wood on a hoe-notch.",
+        "**Niggalations 4:16**\n> You can’t put loyalty on a hoe.",
+        "**Niggalations 4:7**\n> If thou you art seeking, ask about thine homies, banish thee, wicked harlot! To thou streets you return!",
+        "**Niggalations 6:07**\n> If thou bitch does not cleaneth betwixt her cheeks, thou hoe is for thee streets",
+        "**Niggalations 9:37**\n> If after you beat with your hoe and she can still walk, nigga you gotta give your meat and yourself a lil talk, cus you suppose to leave her lame and paralyzed but if she still walking after, when you went inside her, nigga she ain't even realised.",
+        "**Niggalations 9:08**\n> If thy bird fly amongst a flock, she belongs to thy sidewalk.",
+        "**Niggalations 8:14**\n> Never let thine girl complain to another man, for a shoulder to cry on becomes a dick to ride on."
     ];
     let random = Math.floor(Math.random() * (quotes.length - 1) + 1);
     message.channel.send(quotes[random]).catch(err => {
